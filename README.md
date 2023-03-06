@@ -2,6 +2,8 @@
 
 This library adds a `libcluster` strategy for discovering and connecting Elixir nodes over Tailscale.
 
+See [this blog post](https://www.richardtaylor.dev/articles/globally-distributed-elixir-over-tailscale) for a detailed walkthrough.
+
 ## Installation
 
 The package can be installed by adding `libcluster_tailscale` to your list of dependencies in `mix.exs`:
